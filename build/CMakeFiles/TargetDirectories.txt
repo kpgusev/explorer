@@ -1,0 +1,5 @@
+/home/ni/projects/cc/qt/explorer/build/CMakeFiles/explorer.dir
+/home/ni/projects/cc/qt/explorer/build/CMakeFiles/edit_cache.dir
+/home/ni/projects/cc/qt/explorer/build/CMakeFiles/rebuild_cache.dir
+/home/ni/projects/cc/qt/explorer/build/CMakeFiles/explorer_autogen_timestamp_deps.dir
+/home/ni/projects/cc/qt/explorer/build/CMakeFiles/explorer_autogen.dir

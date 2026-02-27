@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/explorer.dir/link.d CMakeFiles/explorer.dir/explorer_autogen/mocs_compilation.cpp.o CMakeFiles/explorer.dir/explorer.cc.o -o explorer  /usr/lib/libQt6Widgets.so.6.10.0 /usr/lib/libQt6Gui.so.6.10.0 /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/libQt6Core.so.6.10.0

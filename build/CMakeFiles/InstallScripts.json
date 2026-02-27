@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ni/projects/cc/qt/explorer/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
