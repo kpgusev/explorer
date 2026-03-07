@@ -321,6 +321,7 @@ explorer_autogen/timestamp: \
 	/usr/include/pthread.h \
 	/usr/include/qt6/QtCore/QDateTime \
 	/usr/include/qt6/QtCore/QFileInfo \
+	/usr/include/qt6/QtCore/QTextStream \
 	/usr/include/qt6/QtCore/q17memory.h \
 	/usr/include/qt6/QtCore/q20functional.h \
 	/usr/include/qt6/QtCore/q20iterator.h \

@@ -320,6 +320,7 @@
  mdp:/usr/include/pthread.h
  mdp:/usr/include/qt6/QtCore/QDateTime
  mdp:/usr/include/qt6/QtCore/QFileInfo
+ mdp:/usr/include/qt6/QtCore/QTextStream
  mdp:/usr/include/qt6/QtCore/q17memory.h
  mdp:/usr/include/qt6/QtCore/q20functional.h
  mdp:/usr/include/qt6/QtCore/q20iterator.h

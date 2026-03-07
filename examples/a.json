@@ -7,7 +7,7 @@
     "dev": "vite --host",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite awfsegfsdrgrd"
   },
   "dependencies": {
     "@tailwindcss/awdawdawdawdawdawdawd": "^4.2.1",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
-    "@types/node": "^24.10.1",
+    "@types/fdhdfthfth": "^24.10.1",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",

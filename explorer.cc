@@ -197,7 +197,7 @@ struct Operation {
   OperationType type;
   QString timestamp;
   std::shared_ptr<FileHandler> handler;
-  QString dataBefore; // снимок данных ДО операции — для отката
+  QString dataBefore;
   QString filePath;
 };
 

@@ -439,6 +439,8 @@ CMakeFiles/explorer.dir/explorer.cc.o: \
  /usr/include/qt6/QtGui/qtextoption.h \
  /usr/include/qt6/QtGui/qtextcursor.h \
  /usr/include/qt6/QtGui/qtextformat.h /usr/include/qt6/QtGui/qpen.h \
+ /usr/include/qt6/QtCore/QTextStream \
+ /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtWidgets/QVBoxLayout \
  /home/ni/projects/cc/qt/explorer/build/explorer_autogen/include/explorer.moc \
  /usr/include/qt6/QtCore/qtmochelpers.h \
